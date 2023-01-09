@@ -1,1 +1,1 @@
-fix: typo in documentation\nfix: handle edge case in data grouping\n
+fix: typo in documentation\nfix: handle edge case in data grouping\ntest: add unit tests for api endpoints\n
