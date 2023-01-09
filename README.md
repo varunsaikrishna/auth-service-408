@@ -1,1 +1,1 @@
-fix: typo in documentation\n
+fix: typo in documentation\nfix: handle edge case in data grouping\n
