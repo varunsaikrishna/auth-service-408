@@ -1,1 +1,1 @@
-fix: typo in documentation\nfix: handle edge case in data grouping\ntest: add unit tests for api endpoints\nperf: optimize database queries for dashboard\n
+fix: typo in documentation\nfix: handle edge case in data grouping\ntest: add unit tests for api endpoints\nperf: optimize database queries for dashboard\nfeat: initial commit\n
